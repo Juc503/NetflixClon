@@ -1,0 +1,156 @@
+
+ .Logo{
+    background-color: transparent;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+}
+
+h1 {
+    width: 100%;
+    color: #fff;
+    font-size: 3.5vw;
+    font-weight: unset;
+    margin-top: 20px;
+  }
+
+  .container1{
+    background:transparent;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+  .container2{
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background:transparent;
+   
+     
+  }
+
+  nav ul {
+  display: flex;
+  
+}
+
+  nav li {
+    flex: auto ;
+    height: 150px;
+    width: 150px; 
+    list-style:none;
+  }
+
+.image{
+  width:150px;
+  height:150px;
+  border-radius: 5px;
+}
+
+.Perfile1{
+
+    background-size: 150px;
+    margin:10px;
+    text-align: center;
+
+}
+
+.Perfile1:hover {
+    border:3px solid white;
+   
+  }
+
+  span:hover {
+    color:white;
+    
+  }
+
+
+.Perfile2{
+    
+    background-size: 150px;
+    margin:10px;
+    text-align: center;
+
+}
+.Perfile2:hover{
+    border:3px solid white;
+
+}
+
+.Perfile3{
+    background-size: 150px;
+    margin:10px;
+    text-align: center;
+
+}
+.Perfile3:hover{
+
+    border:3px solid white;
+}
+
+.Perfile4{
+
+    margin:10px;
+    text-align: center;
+
+}
+.Perfile4:hover{
+    border:3px solid white;
+}
+
+.container3{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    background:transparent;
+  
+  }
+
+.profile-name {
+    line-height: 1.2em;
+    min-height: 1.8em;
+    color: grey;
+    text-align: center;
+    font-size: 1.3vw;
+    margin: 0.6em 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+    height: 10px;
+    width: 150px; 
+    background-color: transparent;
+    margin:10px;
+    
+    
+}
+
+
+
+
+
+.button{
+    margin-left: 600px;
+    margin-right: 500px;
+    margin-top: 50px;
+    font-size: 1.2vw;
+    border: 1px solid grey;
+    color: grey;
+    padding: 0.5em 1.5em;
+    letter-spacing: 2px;
+    cursor: pointer;
+    background-color: transparent;
+    margin-bottom: 260px;
+}
+.button:hover{
+    border:2px solid white; 
+}
+
+
